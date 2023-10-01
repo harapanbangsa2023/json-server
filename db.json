@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "slug": "230ce7b8bd588a19e66e",
+    "image": "https://images.unsplash.com/photo-1582056615449-5dcb2332b3b2",
+    "title": "Post Kesatu",
+    "content": "Post kesatu terbaru cuy."
+  },
+  {
+    "id": 2,
+    "slug": "9b0927485237280a4f0c",
+    "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+    "title": "Post Kedua",
+    "content": "Post kedua terbaru cuy."
+  },
+  {
+    "id": 3,
+    "slug": "c852e2e807903dbab068",
+    "image": "https://images.unsplash.com/photo-1606327054536-e37e655d4f4a",
+    "title": "Post Ketiga",
+    "content": "Post ketiga terbaru cuy."
+  },
+  {
+    "id": 4,
+    "slug": "27308f105b2e91eaa656",
+    "image": "https://images.unsplash.com/photo-1574192324001-ee41e18ed679",
+    "title": "Post Keempat",
+    "content": "Post keempat terbaru cuy."
+  }
+]
