@@ -2,31 +2,51 @@
   "posts": [
     {
       "id": 1,
-      "slug": "230ce7b8bd588a19e66e",
-      "image": "https://images.unsplash.com/photo-1582056615449-5dcb2332b3b2",
-      "title": "Post Kesatu",
-      "content": "Post kesatu terbaru cuy."
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-1.jpg",
+      "title": "What Is Meant By Lorem Ipsum In Website?",
+      "content": "Cillum elit eu enim irure. Commodo sint duis proident eu do do et consectetur incididunt. Occaecat non nulla ea dolor officia. Ullamco officia minim duis qui veniam. Dolore aliqua proident fugiat ad eu minim."
     },
     {
       "id": 2,
-      "slug": "9b0927485237280a4f0c",
-      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
-      "title": "Post Kedua",
-      "content": "Post kedua terbaru cuy."
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-2.jpg",
+      "title": "Why Lorem Ipsum Is Used?",
+      "content": "Do aliquip exercitation incididunt proident dolore aliquip. Velit irure in aliqua occaecat consequat elit veniam ea. Eiusmod voluptate dolor aliquip eu ad fugiat. Quis velit mollit aute nostrud eu dolore officia. Consectetur laborum ut ex magna ad elit dolor pariatur."
     },
     {
       "id": 3,
-      "slug": "c852e2e807903dbab068",
-      "image": "https://images.unsplash.com/photo-1606327054536-e37e655d4f4a",
-      "title": "Post Ketiga",
-      "content": "Post ketiga terbaru cuy."
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-3.jpg",
+      "title": "How Lorem Ipsum Can Be Used?",
+      "content": "Enim voluptate sunt do adipisicing aliqua veniam consectetur quis cillum. Consectetur labore cupidatat do reprehenderit fugiat laboris irure irure. Irure aliqua quis quis nostrud ea dolore tempor ex commodo. Dolor ea non adipisicing est. Quis qui minim quis voluptate."
     },
     {
       "id": 4,
-      "slug": "27308f105b2e91eaa656",
-      "image": "https://images.unsplash.com/photo-1574192324001-ee41e18ed679",
-      "title": "Post Keempat",
-      "content": "Post keempat terbaru cuy."
-    }
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-4.jpg",
+      "title": "How Can I Use Lorem Ipsum Tool For My Website?",
+      "content": "Consectetur id labore exercitation labore incididunt consequat eiusmod culpa irure. Id laborum nostrud ipsum enim velit adipisicing enim elit laboris. Incididunt sint pariatur mollit magna quis mollit labore eiusmod anim. Labore anim cillum enim id nulla in amet anim. Exercitation adipisicing dolor magna minim consectetur ad incididunt."
+    },
+    {
+      "id": 5,
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-5.jpg",
+      "title": "How Much Lorem Ipsum Is Helpful In Websites?",
+      "content": "Aliquip elit ea in laborum. Dolor nisi nostrud aliquip exercitation eu esse aliquip enim pariatur. Ad dolor aliquip sunt sunt consequat. Incididunt reprehenderit aliquip exercitation excepteur. Aliquip adipisicing adipisicing tempor ad dolor laboris amet ad."
+    },
+    {
+      "id": 6,
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-6.jpg",
+      "title": "Does Duplicate Content Negatively Affect The Website?",
+      "content": "Veniam culpa aliqua voluptate et dolor pariatur anim. Quis et velit pariatur consectetur laborum. Aute sunt ipsum officia et aliqua irure nulla reprehenderit velit. Adipisicing commodo eiusmod consectetur pariatur labore eu voluptate quis tempor."
+    },
+    {
+      "id": 7,
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-7.jpg",
+      "title": "Who Can Use Lorem Ipsum?",
+      "content": "Cupidatat pariatur in officia cillum in minim ex laboris eiusmod. Nulla et et sint minim id adipisicing non sit consectetur. Velit amet aute anim do consequat esse."
+    },
+    {
+      "id": 8,
+      "image": "https://ik.imagekit.io/nextapp/upload/foto-8.jpg",
+      "title": "What Lorem Ipsum?",
+      "content": "Enim mollit exercitation elit elit sint ea ex exercitation. Esse sit enim reprehenderit et magna commodo nulla magna commodo. Incididunt reprehenderit exercitation aliqua irure dolor voluptate deserunt laborum."
+    },
   ]
 }
